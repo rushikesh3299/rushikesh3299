@@ -13,5 +13,4 @@
 📌 Contact Me :
 
 <a href="https://hashnode.com/@rushikesh3299" target="_blank"><img align="center" height="30" src="https://img.icons8.com/color/144/000000/hashnode.png"/></a>
-<a href="https://twitter.com/rushikesh3299" target="_blank"><img align="center" height="30" src="https://img.icons8.com/color/144/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/rushikesh-chougule-621854192/" target="_blank"><img align="center" height="30" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
